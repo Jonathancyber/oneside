@@ -1,9 +1,7 @@
 <link rel="stylesheet" href="https://example.com/css/main.css">
 
 nav ul a,
-nav .background-color{
-  color: #333;
-}
+nav .background{color: #333;}
 
 p {
   line-height: 2rem;
